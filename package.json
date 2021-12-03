@@ -9,7 +9,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run",
+    "cypress:record": "cypress run --record --key 9a0e4dd5-469e-4548-b442-b0cfd82bb805"
   },
   "private": true,
   "dependencies": {
